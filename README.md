@@ -1,7 +1,10 @@
 # Go-project-Shooting-game
 Simple shooting game implemented with Go language and SDL2 library
 
-How to Play(Linux only):
+## Language
+Go lang
+
+## How to Play(Linux only):
 1. Clone to your local directory
 2. Must import sdl2 library
    * [Instruction: Click for link](https://github.com/veandco/go-sdl2)
