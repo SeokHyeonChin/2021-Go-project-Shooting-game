@@ -1,4 +1,4 @@
-# go-project-shooting-game
+# Go-project-Shooting-game
 Simple shooting game implemented with Go language and SDL2 library
 
 How to Play(Linux only):
